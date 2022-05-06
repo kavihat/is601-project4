@@ -1,0 +1,21 @@
+2022-04-30 03:29:56,048 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:29:56] "GET / HTTP/1.1" 200 -
+2022-04-30 03:32:54,661 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:32:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-30 03:32:54,859 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:32:54] "GET /dashboard HTTP/1.1" 200 -
+2022-04-30 03:32:55,082 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:32:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-30 03:32:58,377 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:32:58] "GET /welcome HTTP/1.1" 200 -
+2022-04-30 03:33:01,382 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:01] "GET /songs HTTP/1.1" 200 -
+2022-04-30 03:33:03,663 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:03] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-30 03:33:15,761 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:15] "GET / HTTP/1.1" 200 -
+2022-04-30 03:33:19,060 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:19] "GET /songs HTTP/1.1" 200 -
+2022-04-30 03:33:20,754 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:20] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-30 03:33:32,762 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:32] "[32mPOST /songs/upload HTTP/1.1[0m" 302 -
+2022-04-30 03:33:32,847 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:32] "GET /songs HTTP/1.1" 200 -
+2022-04-30 03:33:32,997 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-30 03:33:41,438 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:33:41] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-30 03:36:41,033 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
+2022-04-30 03:44:17,488 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:44:17] "GET / HTTP/1.1" 200 -
+2022-04-30 03:44:20,290 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:44:20] "GET /songs HTTP/1.1" 200 -
+2022-04-30 03:44:20,586 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:44:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-30 03:44:21,385 [INFO] werkzeug: 172.28.0.1 - - [30/Apr/2022 03:44:21] "GET /songs/upload HTTP/1.1" 200 -
+2022-05-06 20:50:36,420 [INFO] werkzeug: 172.23.0.1 - - [06/May/2022 20:50:36] "GET / HTTP/1.1" 200 -
+2022-05-06 20:50:36,693 [INFO] werkzeug: 172.23.0.1 - - [06/May/2022 20:50:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
