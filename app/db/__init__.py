@@ -12,6 +12,7 @@ database = Blueprint('database', __name__,)
 
 @database.cli.command('create')
 def init_db():
+    from app.db.models import Song, Location, User
     db.create_all()
 
 @database.before_app_first_request
@@ -23,6 +24,8 @@ def create_db_file_if_does_not_exist():
     # make a directory if it doesn't exist
     if not os.path.exists(dbdir):
         os.mkdir(dbdir)
+
+    from app.db.models import Song, Location, User
     db.create_all()
 
 @database.before_app_first_request
@@ -37,4 +40,6 @@ def create_upload_folder():
         log.info("Creating csv upload folder")
         os.mkdir(uploadfolder)
     log.info("Adding songs from csv")
+
+    from app.db.models import Song, Location, User
     db.create_all()

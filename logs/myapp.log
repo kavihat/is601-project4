@@ -73,3 +73,143 @@
 2022-05-06 20:54:54,064 [INFO] myApp: Log configuration complete
 2022-05-06 20:54:54,199 [INFO] myApp: Log configuration complete
 2022-05-06 20:54:54,317 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-07 12:06:51,621 [INFO] myApp: Log configuration complete
+2022-05-07 12:32:13,857 [INFO] myApp: Log configuration complete
+2022-05-07 14:44:26,359 [INFO] myApp: Log configuration complete
+2022-05-08 00:03:06,720 [INFO] myApp: Log configuration complete
+2022-05-08 00:10:55,551 [INFO] myApp: Log configuration complete
+2022-05-08 00:15:49,010 [INFO] myApp: Log configuration complete
+2022-05-08 00:15:49,049 [INFO] myApp: {'\ufeffAMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:15:54,872 [INFO] myApp: {'\ufeffAMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:09,262 [INFO] myApp: Log configuration complete
+2022-05-08 00:19:20,622 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,624 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,626 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,628 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,631 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,633 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,635 [INFO] myApp: {'AMOUNT': '-1000', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,638 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,640 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,643 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,650 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,653 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,656 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,659 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,661 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ' '}
+2022-05-08 00:19:20,664 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,667 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,671 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,673 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,674 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,677 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,679 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,682 [INFO] myApp: {'AMOUNT': '4242', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,685 [INFO] myApp: {'AMOUNT': '-2324', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:19:20,687 [INFO] myApp: {'AMOUNT': '4242', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,689 [INFO] myApp: {'AMOUNT': '432', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,691 [INFO] myApp: {'AMOUNT': '432', 'TYPE': 'CREDIT', '': ''}
+2022-05-08 00:19:20,693 [INFO] myApp: {'AMOUNT': '-4323', 'TYPE': 'DEBIT', '': ''}
+2022-05-08 00:56:25,142 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:25,399 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:25,915 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:26,114 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:26,331 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:26,533 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:26,743 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:26,874 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:27,305 [INFO] myApp: {'Name': 'Down', 'Artist': 'Marian Hill', 'Composer': 'Jeremy Lloyd & Samantha Gongol', 'Album': 'ACT ONE', 'Grouping': '', 'Work': '', 'Movement Number': '', 'Movement Count': '', 'Movement Name': '', 'Genre': 'Electronic'}
+2022-05-08 00:56:27,558 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:27,725 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:28,249 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:28,483 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:29,000 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:29,206 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:29,411 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:29,630 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:29,849 [INFO] myApp: Log configuration complete
+2022-05-08 00:56:30,031 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-08 00:57:35,389 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:35,818 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:36,881 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:37,186 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:37,476 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:37,777 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:38,142 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:38,354 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:38,562 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:39,461 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:39,825 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:40,408 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:40,626 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:40,834 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:41,036 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:41,242 [INFO] myApp: Log configuration complete
+2022-05-08 00:57:41,423 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-08 00:58:48,284 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:48,522 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:48,986 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:49,194 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:49,404 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:49,605 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:49,809 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:49,925 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:50,064 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:50,586 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:50,812 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:51,311 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:51,528 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:51,747 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:51,952 [INFO] myApp: Log configuration complete
+2022-05-08 00:58:52,173 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:46,292 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:46,511 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:46,985 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:47,188 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:47,406 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:47,626 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:47,836 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:47,952 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:48,087 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:48,589 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:48,822 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:49,362 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:49,563 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:49,767 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:49,971 [INFO] myApp: Log configuration complete
+2022-05-08 01:05:50,172 [INFO] myApp: Log configuration complete
+2022-05-08 03:28:02,360 [INFO] myApp: Log configuration complete
+2022-05-08 23:47:14,964 [INFO] myApp: Log configuration complete
+2022-05-09 00:27:03,908 [INFO] myApp: Log configuration complete
+2022-05-09 00:28:10,904 [INFO] myApp: Log configuration complete
+2022-05-09 00:29:26,992 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,660 [INFO] myApp: Log configuration complete
+2022-05-09 00:30:00,694 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,696 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,698 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,700 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,701 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,704 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,706 [INFO] myApp: {'AMOUNT': '-1000', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,709 [INFO] myApp: {'AMOUNT': '200', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,713 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,717 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,720 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,722 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,725 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,727 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,729 [INFO] myApp: {'AMOUNT': '1000', 'TYPE': 'CREDIT', '': ' '}
+2022-05-09 00:30:00,731 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,734 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,736 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,738 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,740 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,742 [INFO] myApp: {'AMOUNT': '-100', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,744 [INFO] myApp: {'AMOUNT': '100', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,746 [INFO] myApp: {'AMOUNT': '4242', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,749 [INFO] myApp: {'AMOUNT': '-2324', 'TYPE': 'DEBIT', '': ''}
+2022-05-09 00:30:00,751 [INFO] myApp: {'AMOUNT': '4242', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,754 [INFO] myApp: {'AMOUNT': '432', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,756 [INFO] myApp: {'AMOUNT': '432', 'TYPE': 'CREDIT', '': ''}
+2022-05-09 00:30:00,758 [INFO] myApp: {'AMOUNT': '-4323', 'TYPE': 'DEBIT', '': ''}
+2022-05-10 13:30:06,932 [INFO] myApp: Log configuration complete
