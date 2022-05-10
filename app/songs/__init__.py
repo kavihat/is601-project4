@@ -38,12 +38,18 @@ def songs_upload():
         form.file.data.save(filepath)
         #user = current_user
         list_of_songs = []
-        with open(filepath) as file:
+        user_bal = current_user.current_bal
+        with open(filepath,encoding='utf-8-sig') as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
-                list_of_songs.append(Song(row['Name'],row['Artist']))
+                log.info(str(row))
+                list_of_songs.append(Song(row['AMOUNT'],row['TYPE']))
+                user_bal+=int(row['AMOUNT'])
+
+
 
         current_user.songs = list_of_songs
+        current_user.current_bal =  user_bal
         db.session.commit()
 
         return redirect(url_for('songs.songs_browse'))
