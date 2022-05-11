@@ -35,6 +35,7 @@ def add_user(application):
         user = User('testuser@email.com', 'testtest')
         db.session.add(user)
         db.session.commit()
+        yield user
 
 
 
@@ -49,3 +50,11 @@ def client(application):
 def runner(application):
     """This makes the task runner"""
     return application.test_cli_runner()
+
+@pytest.fixture()
+def login(application, client,add_user):
+    response = client.post("/login", data=dict(email=add_user.email, password=add_user.password),
+                           follow_redirects=True)
+
+    user = User.query.filter_by(email=add_user.email).first()
+    yield user

@@ -144,3 +144,46 @@
 2022-05-10 13:30:51,627 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:30:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2022-05-10 13:33:03,696 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:33:03] "GET /songs HTTP/1.1" 200 -
 2022-05-10 13:33:03,791 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:33:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-10 13:49:34,915 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:49:34] "GET /songs HTTP/1.1" 200 -
+2022-05-10 13:49:35,024 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:49:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-10 13:49:46,029 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:49:46] "GET /songs HTTP/1.1" 200 -
+2022-05-10 13:49:48,228 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:49:48] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:49:57,374 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:49:57] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:49:57,900 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:49:57] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:50:01,146 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:50:01] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:52:53,666 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-10 13:53:01,839 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:01] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:53:04,254 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:04] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:53:05,030 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:05] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:53:06,091 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:06] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:53:32,283 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-10 13:53:33,836 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:33] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:53:36,393 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:36] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:53:37,212 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:53:37] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:55:58,650 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-10 13:56:00,532 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:00] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:56:02,563 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:02] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:56:03,286 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:03] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:56:27,712 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-10 13:56:29,243 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:29] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:56:31,100 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:31] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:56:32,267 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:32] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:56:51,664 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-10 13:56:53,765 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:53] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:56:56,255 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:56] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:56:56,794 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:56:56] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:57:01,907 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:57:01] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:57:02,760 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:57:02] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:57:26,949 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-05-10 13:57:28,573 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:57:28] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:57:33,269 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:57:33] "GET /welcome HTTP/1.1" 200 -
+2022-05-10 13:57:33,913 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:57:33] "GET /about HTTP/1.1" 200 -
+2022-05-10 13:57:34,476 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:57:34] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:58:13,915 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:13] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 13:58:18,287 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:18] "GET /songs HTTP/1.1" 200 -
+2022-05-10 13:58:19,600 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:19] "GET /songs HTTP/1.1" 200 -
+2022-05-10 13:58:20,362 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:20] "GET /songs HTTP/1.1" 200 -
+2022-05-10 13:58:24,690 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:24] "GET /dashboard HTTP/1.1" 200 -
+2022-05-10 14:05:58,044 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/user_test.py', reloading
+2022-05-11 03:36:12,066 [INFO] werkzeug: 172.23.0.1 - - [11/May/2022 03:36:12] "GET / HTTP/1.1" 200 -
+2022-05-11 03:39:49,489 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/calculate_bal_test.py', reloading
