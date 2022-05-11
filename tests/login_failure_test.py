@@ -9,4 +9,4 @@ def test_login_failure(application, client):
                                follow_redirects=True)
         user = User.query.filter_by(email=email).first()
         assert user is None
-        assert response.status_code == 302
+
