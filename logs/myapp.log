@@ -792,3 +792,117 @@
 2022-05-11 13:17:18,351 [INFO] myApp: Log configuration complete
 2022-05-11 13:17:18,553 [INFO] myApp: Log configuration complete
 2022-05-11 13:17:18,732 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-11 14:00:04,772 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:04,912 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:05,061 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:05,335 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:00:05,621 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:05,754 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:05,885 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:06,017 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:06,154 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:06,230 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:06,399 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:06,657 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:00:06,773 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:07,099 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:07,246 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:07,577 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:07,730 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:07,944 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:08,148 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:08,279 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:08,412 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:08,544 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:08,673 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:08,783 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-11 14:00:21,380 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:21,515 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:21,660 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:21,947 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:00:22,214 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:22,352 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:22,483 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:22,617 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:22,747 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:22,823 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:22,989 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:23,248 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:00:23,362 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:23,689 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:23,842 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:24,166 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:24,323 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:24,537 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:24,716 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:24,876 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:25,014 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:25,144 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:25,291 [INFO] myApp: Log configuration complete
+2022-05-11 14:00:25,409 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-11 14:01:30,297 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:30,455 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:30,611 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:30,885 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:01:31,146 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:31,275 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:31,408 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:31,540 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:31,682 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:31,763 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:31,931 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:32,196 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:01:32,313 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:32,638 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:32,789 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,123 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,267 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,400 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,589 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,721 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,852 [INFO] myApp: Log configuration complete
+2022-05-11 14:01:33,971 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-11 14:03:38,106 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:38,238 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:38,381 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:38,663 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:03:38,931 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,062 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,192 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,329 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,461 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,537 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,705 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:39,966 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:03:40,083 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:40,414 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:40,565 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:40,720 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:41,040 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:41,170 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:41,302 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:41,433 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:41,602 [INFO] myApp: Log configuration complete
+2022-05-11 14:03:41,713 [INFO] myApp: <User 'testuser@email.com'>
+2022-05-11 14:04:46,201 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:46,337 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:46,508 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:46,781 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:04:47,040 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:47,173 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:47,306 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:47,441 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:47,573 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:47,665 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:47,831 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:48,090 [INFO] myApp: {'AMOUNT': '2000', 'TYPE': 'CREDIT'}
+2022-05-11 14:04:48,206 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:48,534 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:48,690 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:48,841 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:49,160 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:49,289 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:49,416 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:49,548 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:49,738 [INFO] myApp: Log configuration complete
+2022-05-11 14:04:49,855 [INFO] myApp: <User 'testuser@email.com'>
