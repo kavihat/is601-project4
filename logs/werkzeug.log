@@ -185,3 +185,5 @@
 2022-05-10 13:58:20,362 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:20] "GET /songs HTTP/1.1" 200 -
 2022-05-10 13:58:24,690 [INFO] werkzeug: 172.23.0.1 - - [10/May/2022 13:58:24] "GET /dashboard HTTP/1.1" 200 -
 2022-05-10 14:05:58,044 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/user_test.py', reloading
+2022-05-11 03:36:12,066 [INFO] werkzeug: 172.23.0.1 - - [11/May/2022 03:36:12] "GET / HTTP/1.1" 200 -
+2022-05-11 03:39:49,489 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/calculate_bal_test.py', reloading
