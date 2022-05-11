@@ -29,10 +29,5 @@ def test_upload_success(application, client):
         assert db.session.query(Song).count() == 1
 
 
-def test_upload_failure(application, client):
-    with application.app_context():
-        email = 'notauser@email.com'
-        password = 'testtest'
-        response = client.get("/songs/upload")
-        assert db.session.query(Song).count() == 0
+
 
