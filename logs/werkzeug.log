@@ -289,3 +289,25 @@
 2022-05-12 02:37:55,448 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:37:55] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
 2022-05-12 02:37:57,301 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:37:57] "GET /songs HTTP/1.1" 200 -
 2022-05-12 02:44:16,652 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/admin_functionality_test.py', reloading
+2022-05-12 02:54:06,686 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:06] "GET /welcome HTTP/1.1" 200 -
+2022-05-12 02:54:06,808 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-12 02:54:08,362 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:08] "GET /about HTTP/1.1" 200 -
+2022-05-12 02:54:08,966 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:08] "GET /dashboard HTTP/1.1" 200 -
+2022-05-12 02:54:14,257 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:14] "GET /users HTTP/1.1" 200 -
+2022-05-12 02:54:14,300 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:14] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-05-12 02:54:20,343 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:20] "GET /users/1/edit HTTP/1.1" 200 -
+2022-05-12 02:54:31,037 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:31] "GET /account HTTP/1.1" 200 -
+2022-05-12 02:54:40,436 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:40] "GET /account HTTP/1.1" 200 -
+2022-05-12 02:54:42,391 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:42] "GET /profile HTTP/1.1" 200 -
+2022-05-12 02:54:44,064 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:44] "GET /account HTTP/1.1" 200 -
+2022-05-12 02:54:45,649 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:45] "GET /users HTTP/1.1" 200 -
+2022-05-12 02:54:45,690 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:45] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-05-12 02:54:52,898 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:54:52] "GET /account HTTP/1.1" 200 -
+2022-05-12 02:55:00,885 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:55:00] "GET /profile HTTP/1.1" 200 -
+2022-05-12 02:55:58,261 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:55:58] "GET /users HTTP/1.1" 200 -
+2022-05-12 02:55:58,343 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:55:58] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-05-12 02:56:08,202 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:56:08] "GET /users/new HTTP/1.1" 200 -
+2022-05-12 02:56:26,495 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:56:26] "GET /users HTTP/1.1" 200 -
+2022-05-12 02:56:26,527 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:56:26] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-05-12 02:56:35,943 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:56:35] "GET /profile HTTP/1.1" 200 -
+2022-05-12 02:56:41,572 [INFO] werkzeug: 172.23.0.1 - - [12/May/2022 02:56:41] "GET /account HTTP/1.1" 200 -
