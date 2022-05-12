@@ -16,10 +16,6 @@ def test_csv_file_exists(client):
     is_path_exist()
 
 
-def test_csv_processed(client):
-    response = client.get('/songs/upload')
-    assert response.status_code == 302
-
 def is_file_exist():
     upload_dir = config.Config.BASE_DIR
     assert os.path.isfile(os.path.join(upload_dir + '/uploads/music.csv')) is True

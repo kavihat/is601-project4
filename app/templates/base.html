@@ -56,10 +56,10 @@
                                     Account</a></li>
                                 {% if current_user.is_admin %}
                                     <li><a class="dropdown-item" href="{{ url_for("auth.browse_users") }}">Manage User</a></li>
-                                    <li><a class="dropdown-item" href="{{ url_for("songs.songs_browse") }}">Upload Song</a></li>
 
 
                                 {% endif %}
+                                <li><a class="dropdown-item" href="{{ url_for("songs.songs_browse") }}">Upload Transaction</a></li>
                                 <li><a class="dropdown-item" href="{{ url_for("auth.logout") }}">Logout</a></li>
                             </ul>
                         </li>

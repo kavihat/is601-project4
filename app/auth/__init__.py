@@ -75,7 +75,7 @@ def logout():
 def dashboard(page):
     page = page
     per_page = 1000
-    pagination = Song.query.paginate(page, per_page, error_out=False)
+    pagination = Song.query.filter(Song.user_id == current_user.id).paginate(page, per_page, error_out=False)
     data = pagination.items
     try:
         return render_template('dashboard.html', data=data, pagination=pagination)
